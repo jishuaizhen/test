@@ -8,7 +8,7 @@ var indexRouter = require('./routes/index');
 var usersRouter = require('./routes/users');
 var booksRouter = require('./routes/books');
 
-//重新测试提交
+//测试提交
 var app = express();
 
 // view engine setup
